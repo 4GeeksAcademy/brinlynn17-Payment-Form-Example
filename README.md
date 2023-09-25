@@ -1,5 +1,4 @@
-https://github.com/4GeeksAcademy/brinlynn17-Payment-Form-Example
-
+https://4geeksacademy.github.io/brinlynn17-Payment-Form-Example/
 
 
 
